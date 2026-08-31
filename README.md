@@ -10,9 +10,8 @@ For some of the tools here, you need to configure your shell to use it. If you u
 Note that this file might not exists, if you have not customized you shell already. 
 Look [here](https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/creating-profiles?view=powershell-7.6#how-to-create-your-personal-profile) to learn how to create this file. 
 
-## The Basics
 
-### Terminal Emulator
+## Terminal Emulator
 
 You also need a terminal capable of rendering Nerd Fonts. I use [Alacritty](#Alacritty).
 
@@ -20,14 +19,14 @@ You also need a terminal capable of rendering Nerd Fonts. I use [Alacritty](#Ala
 
 On Windows, you can use [Windows Terminal](https://github.com/microsoft/terminal#installing-windows-terminal-canary), which is available from the [Microsoft Store](https://aka.ms/terminal). 
 
-##### Alacritty
+#### Alacritty
 
 https://alacritty.org/
 
 
-### Shell
+## Shell
 
-##### Nushell
+#### Nushell
 
 [Nushell](https://www.nushell.sh/) is a (relatively) new shell. 
 What sets it apart from other shells like Bash or Powershell, is its focus on working with structured data.
@@ -36,9 +35,7 @@ For a quick example of what that means, take a look [here](https://www.nushell.s
 If you want it as you default shell, look [here](https://www.nushell.sh/book/default_shell.html#setting-nu-as-default-shell-on-your-terminal) or [here, if you use Alacritty](https://alacritty.org/config-alacritty.html#terminal).
 
 
-## Styling
-
-### Nerd Fonts
+## Nerd Fonts
 
 To get the most out of many of the these tools, you should have a [Nerd Font](https://www.nerdfonts.com/#home) installed on your system.
 They can be downloaded here: 
@@ -50,7 +47,7 @@ But otherwise just pick whichever one you like (I use FiraCode Nerd Font).
 <!-- TODO: how-to? -->
 You might need to tell you terminal emulator to use that font. 
 
-### Prompt
+## Prompt
 
 #### Starship
 
@@ -66,7 +63,6 @@ Starship should come with a default configuration, but if you want to try someth
 
 ## Tools
 
-### Navigation
 
 #### Zoxide
 
