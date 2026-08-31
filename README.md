@@ -14,15 +14,15 @@ Look [here](https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/c
 
 # The Basics
 
-## Terminal
+## Terminal Emulator
 
 You also need a terminal capable of rendering Nerd Fonts. I use [Alacritty](#Alacritty).
 
-### Windows Terminal
+#### Windows Terminal
 
 On Windows, you can use [Windows Terminal](https://github.com/microsoft/terminal#installing-windows-terminal-canary), which is available from the [Microsoft Store](https://aka.ms/terminal). 
 
-### Alacritty
+#### Alacritty
 
 https://alacritty.org/
 
