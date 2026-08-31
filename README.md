@@ -25,7 +25,7 @@ On Windows, you can use [Windows Terminal](https://github.com/microsoft/terminal
 https://alacritty.org/
 
 
-## Shell
+### Shell
 
 #### Nushell
 
@@ -35,7 +35,6 @@ For a quick example of what that means, take a look [here](https://www.nushell.s
 
 If you want it as you default shell, look [here](https://www.nushell.sh/book/default_shell.html#setting-nu-as-default-shell-on-your-terminal) or [here, if you use Alacritty](https://alacritty.org/config-alacritty.html#terminal).
 
----
 
 ## Styling
 
@@ -64,7 +63,6 @@ Note that you need a [Nerd Font](#Nerd-Fonts) installed.
 
 Starship should come with a default configuration, but if you want to try something else, take a look at the [presets](https://starship.rs/presets/).
 
----
 
 ## Tools
 
