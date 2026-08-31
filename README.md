@@ -20,14 +20,14 @@ You also need a terminal capable of rendering Nerd Fonts. I use [Alacritty](#Ala
 
 On Windows, you can use [Windows Terminal](https://github.com/microsoft/terminal#installing-windows-terminal-canary), which is available from the [Microsoft Store](https://aka.ms/terminal). 
 
-#### Alacritty
+##### Alacritty
 
 https://alacritty.org/
 
 
 ### Shell
 
-#### Nushell
+##### Nushell
 
 [Nushell](https://www.nushell.sh/) is a (relatively) new shell. 
 What sets it apart from other shells like Bash or Powershell, is its focus on working with structured data.
