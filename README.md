@@ -84,6 +84,13 @@ Ripgrep is a tool for searching the content of files.
 https://github.com/BurntSushi/ripgrep
 
 
+#### Bat
+
+Display the content of files in the terminal. Useful for quickly checking, fx a config file.
+
+https://github.com/sharkdp/bat#on-windows
+
+
 ## Terminal user interfaces
 
 
