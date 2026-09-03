@@ -37,6 +37,7 @@ Alacritty is a gpu-accelerated terminal.
 
 https://alacritty.org/
 
+<!-- TODO:   -->
 
 ## Shell
 
