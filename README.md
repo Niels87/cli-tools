@@ -10,6 +10,18 @@ For some of the tools here, you need to configure your shell to use it. If you u
 Note that this file might not exists, if you have not customized you shell already. 
 Look [here](https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/creating-profiles?view=powershell-7.6#how-to-create-your-personal-profile) to learn how to create this file. 
 
+## Nerd Fonts
+
+To get the most out of many of the these tools, you should have a [Nerd Font](https://www.nerdfonts.com/#home) installed on your system.
+They can be downloaded here: 
+
+https://www.nerdfonts.com/font-downloads
+
+Consider if you want your font to have [programming ligatures](https://www.hanselman.com/blog/monospaced-programming-fonts-with-ligatures).
+But otherwise just pick whichever one you like (I use FiraCode Nerd Font).
+<!-- TODO: how-to? -->
+You might need to tell you terminal emulator to use that font. 
+
 
 ## Terminal Emulator
 
@@ -34,18 +46,6 @@ For a quick example of what that means, take a look [here](https://www.nushell.s
 
 If you want it as you default shell, look [here](https://www.nushell.sh/book/default_shell.html#setting-nu-as-default-shell-on-your-terminal) or [here, if you use Alacritty](https://alacritty.org/config-alacritty.html#terminal).
 
-
-## Nerd Fonts
-
-To get the most out of many of the these tools, you should have a [Nerd Font](https://www.nerdfonts.com/#home) installed on your system.
-They can be downloaded here: 
-
-https://www.nerdfonts.com/font-downloads
-
-Consider if you want your font to have [programming ligatures](https://www.hanselman.com/blog/monospaced-programming-fonts-with-ligatures).
-But otherwise just pick whichever one you like (I use FiraCode Nerd Font).
-<!-- TODO: how-to? -->
-You might need to tell you terminal emulator to use that font. 
 
 ## Prompt
 
@@ -74,6 +74,15 @@ https://github.com/ajeetdsouza/zoxide#installation
 It uses *fzf* for fuzzy finding, so you also need that: 
 https://github.com/junegunn/fzf#windows-packages
 
+#### Lazygit
 
+LazyGit is a terminal user interface for git. You still need [git itself](https://git-scm.com/install/) installed.
 
+https://github.com/jesseduffield/lazygit
 
+#### Lazydocker
+
+Similar to Lazygit, but for managing docker containers. You need [docker itself](https://www.docker.com/products/docker-desktop/) installed. 
+On Windows you also need to run Docker Desktop in the background.
+
+https://github.com/jesseduffield/lazydocker
