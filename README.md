@@ -33,6 +33,8 @@ On Windows, you can use [Windows Terminal](https://github.com/microsoft/terminal
 
 #### Alacritty
 
+Alacritty is a gpu-accelerated terminal.
+
 https://alacritty.org/
 
 
@@ -74,11 +76,23 @@ https://github.com/ajeetdsouza/zoxide#installation
 It uses *fzf* for fuzzy finding, so you also need that: 
 https://github.com/junegunn/fzf#windows-packages
 
+
+#### RipGrep
+
+Ripgrep is a tool for searching the content of files.
+
+https://github.com/BurntSushi/ripgrep
+
+
+## Terminal user interfaces
+
+
 #### Lazygit
 
 LazyGit is a terminal user interface for git. You still need [git itself](https://git-scm.com/install/) installed.
 
 https://github.com/jesseduffield/lazygit
+
 
 #### Lazydocker
 
@@ -86,3 +100,12 @@ Similar to Lazygit, but for managing docker containers. You need [docker itself]
 On Windows you also need to run Docker Desktop in the background.
 
 https://github.com/jesseduffield/lazydocker
+
+
+#### Spotatui
+
+Run Spotify from you terminal! You will need to authenticate with Spotify, using your own credentials.
+It is not only Spotify though. It can also use local files, youtube and more.
+
+https://github.com/LargeModGames/spotatui#installation
+
